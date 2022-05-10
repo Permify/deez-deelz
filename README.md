@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/63932252/167680845-cd3952e1-ac76-42b7-b512-4499c90a4651.png)
-# Deez-Deelz
+# Deez-Deelz [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 Deez Deelz is a curated  list of Startup Discounts and Credits by Permify. Apply dozens of discounts to save 1,000s of dollars from AWS to Notion!
 
 We have curated a list of startup discounts that you can apply for, and save 10,000's of dollars. You can find product for every part of your team from dev tools to analytics tools...
