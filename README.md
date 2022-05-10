@@ -6,11 +6,11 @@ We have curated a list of startup discounts that you can apply for, and save 10,
 
 ## Table of Content
 Find the tool category you need.
-- [Dev & Devops](dev-&-devops)
-- [Analytics](analytics)
-- [CRM & Support](crm-&-support)
-- [Project Management](project-management)
-- [HR & Legal](hr-&-legal)
+- [Dev & Devops](#dev--devops)
+- [Analytics](#analytics)
+- [CRM & Support](#crm--support)
+- [Project Management](#project-management)
+- [HR & Legal](#hr--legal)
 
 ## Dev & Devops
 | Name | Save | Product | Action |
@@ -66,7 +66,7 @@ Find the tool category you need.
 | Miro | $1,000.00 | https://miro.com/ | [Apply Now](https://miro-survey.typeform.com/to/Elf8mBUy) |
 | Miro | $1,000.00 | https://miro.com/ | [Apply Now](https://miro-survey.typeform.com/to/Elf8mBUy) |
 
-## HR & Legal
+## HR-&-Legal
 | Name | Save | Product | Action |
 |------|------|---------|--------|
 | Remote | $3,600.00 | https://remote.com/ | [Apply Now](https://remote.com/platform/use-case/startup) |
