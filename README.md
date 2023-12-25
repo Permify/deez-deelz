@@ -30,6 +30,7 @@ Find the tool category you need.
 | DeepSource | $2,000.00 | https://www.typeform.com/ | [Apply Now](https://tfsales.typeform.com/to/cHOQj40j) |
 | Magic | $2,450.00 | https://magic.link | [Apply Now](https://magic.link/startups) |
 | Retool | $1,200.00 | https://retool.com/ | [Apply Now](https://retool.com/startups/) |
+| Crawlbase | $25000.00 | https://crawlbase.com/ | [Apply Now](https://crawlbase.com/) |
 
 ## Analytics
 | Name | Save | Product | Action |
